@@ -10,7 +10,7 @@ app.use(cors());
 
 //Connect db
 mongoose.connect(
-  'mongodb+srv://morais_dio:dfm000000@node0-wk3go.mongodb.net/mercado?retryWrites=true&w=majority',{
+  'mongodb+srv://xxxxxx:xxxxxx@node0-wk3go.mongodb.net/mercado?retryWrites=true&w=majority',{
   useNewUrlParser:true,
   useUnifiedTopology:true
 });
